@@ -1,6 +1,4 @@
 __pycache__/
-*.pyc
-*.sqlite3
-*.bin
-chroma_db/
 vectordb/
+chroma_db/
+*.pyc
